@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Lluvia
+Comment=File manager and image viewer
+GenericName=Nevada file manager
+Exec=lluvia
+Icon=lluvia
+Type=Application
+StartupNotify=true
+Categories=Graphics;Viewer;Photography;FileManager;Utility;
+MimeType=text/plain;

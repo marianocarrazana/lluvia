@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>lluvia.js</file>
+        <file>lluvia.qml</file>
+        <file>folder.qml</file>
+        <file>image.qml</file>
+        <file>video.qml</file>
+        <file>icons/drive-harddisk-usb.svg</file>
+        <file>icons/application-default-icon.svg</file>
+        <file>icons/drive-harddisk.svg</file>
+        <file>icons/drive-optical.svg</file>
+        <file>icons/file-roller.svg</file>
+        <file>icons/folder.svg</file>
+        <file>icons/go-next-symbolic.svg</file>
+        <file>icons/go-previous-symbolic.svg</file>
+        <file>icons/go-up-symbolic.svg</file>
+        <file>icons/gpicview.svg</file>
+        <file>icons/media-flash.svg</file>
+        <file>icons/media-optical.svg</file>
+        <file>icons/view-grid-symbolic.svg</file>
+        <file>icons/view-list-symbolic.svg</file>
+        <file>icons/avidemux.svg</file>
+        <file>grid.qml</file>
+        <file>viewer.qml</file>
+        <file>icons/black.png</file>
+        <file>fullviewer.qml</file>
+        <file>thumb.qml</file>
+        <file>FullImage.qml</file>
+        <file>splitView.qml</file>
+        <file>LluviaToolbar.qml</file>
+        <file>NevadaButton.qml</file>
+        <file>nevadaTheme.js</file>
+        <file>folderThumbs.qml</file>
+        <file>icons/folder-documents-symbolic.svg</file>
+        <file>icons/folder-pictures-symbolic.svg</file>
+        <file>icons/folder-videos-symbolic.svg</file>
+        <file>generic.qml</file>
+        <file>document.qml</file>
+        <file>VideoPlayer.qml</file>
+    </qresource>
+</RCC>
